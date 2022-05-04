@@ -1,4 +1,4 @@
-# Special Matrix Algorithm Information:
+# WHAT DOES THE SPECIAL MATRIX ALGORITHM DO?
 ## *This is an algorithm that creates a function to return an nxm matrix.*
 
 ### Inputs:
